@@ -1,0 +1,17 @@
+Weather_Analysis:
+
+1. Temperature seems to be the only aspect that has a high correlation with 
+changing Latitude. As on gets closer to the equator (latitude: 0degrees),
+temperature rises. This is true when looking at northern hemisphere cities
+and southern hemisphere cities.
+
+2. While I thought humidity would have had a moderate to high correlation with
+latitude, the correlation is actually pretty weak. Latitude does not seem to
+predict the level of humidity. Looking at the humidity heatmap, humidity seems
+to have a greater correlation with proximity to the ocean; however, since this
+is based on visual examination and not on statistical analysis, the fitness
+of correlation cannot be verified.
+
+3. When looking at the other parameters, cloudiness and wind speed, there 
+exists a weak to negligible correlation with changing latitude. Latitude does
+not provide a good predictor of level of cloudiness and wind speed.
